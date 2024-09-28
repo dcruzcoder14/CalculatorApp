@@ -5,8 +5,9 @@
 </p>
 
 <br><p align="center">
-  <img width="312" alt="Screenshot 2024-09-27 214159" src="https://github.com/user-attachments/assets/b31d93cc-7c4c-427b-a9bf-2e520beb203e">
+  <img width="311" alt="Screenshot 2024-09-27 214159" src="https://github.com/user-attachments/assets/4cd6fb6c-b7d4-4e1d-bb8d-a5ed17fc2f5c">
 </p><br>
+
 
 
 
